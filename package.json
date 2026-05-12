@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "fs-extra": "^11.3.5",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "path": "^0.12.7",
+    "puppeteer": "^24.43.1",
+    "url": "^0.11.4"
+  }
+}
